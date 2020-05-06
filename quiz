@@ -1,0 +1,101 @@
+1. What is the need of stratify in train test split?
+a. to select data randomly
+b. select data with uniform distribution
+c. delete unnecessary data
+d. delete missing data
+
+Ans b
+
+2.  How will you ensure that same data comes for triaining and testing when we run the code multiple times?
+a. setting size attribute
+b. setting stratify attribute
+c. setting random_state attribute
+d. setting x attribute
+
+Ans c
+
+3. In python, the function __init__ is ____________
+a. called explicitly
+b. Called automatically during object creation
+c. Called automatically during object deletion
+d. called for clearing memory
+
+Ans b
+
+4. In general __________ is for training and _________ is for testing
+a. fit, predict
+b. predict, fit
+c. init, predict
+d. init, fit
+
+Ans a
+
+5. When I want to have 80% of data for training, I can mention it in train_test_split function as __________
+a. train_size = 0.8
+b. test_size = 0.8
+c. test_size = 0.2
+d. test_size = 0.8
+
+Ans C
+
+6. ____________ are learnt by the algorithm
+a. hyper parameters
+b. hypo parameters
+c. learning rate
+d. parameters
+Ans D
+
+7. To remove a field, f1 from a data frame, data _________________ is the command
+a. data.drop(f1)
+b. data.drop(f1, axis = 0)
+c. data.drop(f1, axis = 1)
+d. data.drop
+Ans c
+
+8. Consider f = lambda x: 0 if x<1000 else 1, what will the function return when we call as ___________ f(500)
+a. error
+b. 0
+c. 1
+d. 1000
+
+Ans b
+
+9. Given predictions made by a learning algorithm and the original output, _______________ function will give accuracy
+a. accuracy_value
+b. accuracy_measure
+c. accuracy_calculate
+d. accuracy_score
+
+Ans d
+
+10. ____________ is a regularization technique
+a. drop out
+b. history
+c. fit
+d. predict
+
+Ans a
+
+11. You can choose the direction of search by specifying _____________
+a. loss
+b. optimizer
+c. add
+d. epochs
+
+Ans b
+
+12. Mini batch gradient optmization can be done by specifying ______________ attribute
+a. mini_batch
+b. batch_gradient
+c. batch_size
+d. adding layers
+
+Ans c
+
+13. Data type of a field can be changed using ____________ function
+a. astype
+b. change type
+c. modify type
+d. retype
+
+Ans a

@@ -1,0 +1,9 @@
+Deep learning lab 			Submission Date: 10-05-2020
+Assignment Problems
+
+1. Apply different types of resnets for the cat-dog dataset we were working on the lab. Do hyperparameter tuning and comment on the architecture that best suits the need. Make a discussion about the process. Do appropriate plotting
+
+2. For a temperature forecasting problem, using the dataset at jena_climate, train and evaluate a dropout-regularized GRU-based model
+
+References
+1. Deep learning with Python by Francois Chollet
